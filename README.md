@@ -7,7 +7,6 @@ Software engineer and tutor
 Brian is a software engineer who has a passion to learn and share his knowledge with others. He is a full-time software engineer with years of experience in Software Development and private tutoring.
 
 *   🌍  I'm based in San Diego, CA
-*   ✉️  You can contact me at [briannhtang@gmail.com](mailto:briannhtang@gmail.com)
 *   🧠  I'm learning Svelte
 
 ### Skills 

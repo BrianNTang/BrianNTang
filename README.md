@@ -9,7 +9,7 @@ Software engineer and tutor
 Brian is a software engineer who has a passion to learn and share his knowledge with others. He is a full-time software engineer with years of experience in Software Development and private tutoring.
 
 * 🌍  I'm based in San Diego, CA
-* 🧠  I'm learning Svelte
+* 🧠  I'm learning Terraform
 
 ### Skills
 

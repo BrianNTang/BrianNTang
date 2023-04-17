@@ -6,7 +6,7 @@ Senior Software Engineer
 
 <img src="https://komarev.com/ghpvc/?username=BrianNTang&style=flat-square&color=blue" alt=""/>
 
-Brian is a software engineer with years of experience in full stack development who has a passion to learn and share his knowledge with others. He works at Plexium full-time as a senior software engineer.
+Brian is a software engineer with years of experience in full stack development who has a passion to learn and share his knowledge with others. He works as a full-time employee at Plexium in the biotechnology industry.
 
 * 🌍  I'm based in San Diego, CA
 * 🧠  I'm learning Terraform

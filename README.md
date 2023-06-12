@@ -1,15 +1,15 @@
 Hi ![Wave](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Brian Tang
 ==================================================================================================================================
 
-Software Engineer
+Full-stack Software Engineer
 ---------------------------
 
 <img src="https://komarev.com/ghpvc/?username=BrianNTang&style=flat-square&color=blue" alt=""/>
 
-Brian is a software engineer with years of experience in full-stack development who is passionate about learning and sharing his knowledge. He works as a full-time employee at Plexium in the biotechnology industry.
+Experienced software engineer with 4+ years of experience in full-stack development. Skilled in web development and an curious learner of software development philosophies.
 
 * 🌍  I'm based in San Diego, CA
-* 🧠  I'm learning Terraform
+* 🧠  I'm getting better at system design
 
 ### Skills
 

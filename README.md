@@ -9,7 +9,7 @@ Senior Software Engineer
 Experienced software engineer with 4+ years of experience in full-stack development. Skilled in web development and a curious learner of software development philosophies.
 
 * 🌍  I'm based in San Diego, CA
-* 🧠  I'm currently learning firmware development
+* 🧠  I'm currently learning about embedded systems
 
 ### Skills
 
@@ -30,7 +30,8 @@ Experienced software engineer with 4+ years of experience in full-stack developm
 ### Socials
 
 <p align="left">
-  <a href="https://discord.com/users/watchbrian#2415" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
   <a href="https://www.github.com/BrianNTang" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
+  <a href="https://www.medium.com/@SmoothBrain" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a>
+  <a href="https://discord.com/users/watchbrian#2415" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
   <a href="https://www.linkedin.com/in/linkBrianTang" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 </p>

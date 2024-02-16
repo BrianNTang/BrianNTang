@@ -9,7 +9,7 @@ Senior Software Engineer
 Experienced software engineer with 4+ years of experience in full-stack development. Skilled in web development and a curious learner of software development philosophies.
 
 * 🌍  I'm based in San Diego, CA
-* 🧠  I'm currently learning about embedded systems
+* 🧠  I'm currently learning about competitive programming
 
 ### Skills
 

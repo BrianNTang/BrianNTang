@@ -6,10 +6,10 @@ Senior Software Engineer
 
 <img src="https://komarev.com/ghpvc/?username=BrianNTang&style=flat-square&color=blue" alt=""/>
 
-Experienced software engineer with 4+ years of experience in full-stack development. Skilled in web development and a curious learner of software development philosophies.
+Experienced software engineer with 5+ years of experience in software development. Skilled in web development and a curious learner of software development philosophies.
 
-* 🌍  I'm based in San Diego, CA
-* 🧠  I'm currently learning about competitive programming
+* 🌍  I'm based in US-West (PST)
+* 🧠  I'm currently learning about financial technology.
 
 ### Skills
 

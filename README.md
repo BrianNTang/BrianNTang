@@ -8,8 +8,8 @@ Senior Software Engineer
 
 Experienced software engineer with 5+ years of experience in software development. Skilled in web development and a curious learner of software development philosophies.
 
-* 🌍  I'm based in US-West (PST)
-* 🧠  I'm currently learning about financial technology.
+* 🌍  I'm based in US-Central (CST)
+* 🧠  I'm currently engaged in learning about finance.
 
 ### Skills
 

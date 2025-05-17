@@ -6,7 +6,7 @@ Software Engineer
 
 <img src="https://komarev.com/ghpvc/?username=BrianNTang&style=flat-square&color=blue" alt=""/>
 
-Experienced software engineer with experience in the security, biotech, and financial services industries.
+Software engineer with experience in the security, biotech, and financial services industries.
 
 * 🌍  I'm based in US-Central (CST)
 * 🧠  I'm currently engaged in learning about financial services.
